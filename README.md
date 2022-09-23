@@ -27,25 +27,15 @@ Hello, my name is Anastsiy. I am a beginner frontend developer and every day I s
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Anastasiy-alt&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasiy-alt&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Anastasiy-alt&bg_color=151515&line_color=000000&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Anastasiy-alt&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anastasiy-alt&theme=buefy" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasiy-alt&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Anastasiy-alt&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)
-</div>
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
- <img src="https://raw.githubusercontent.com/Anastasiy-alt/Anastasiy-alt/output/github-contribution-grid-snake.svg" />
-</div>
 ## Contacts
 
 * email: n060600@yandex.ru
