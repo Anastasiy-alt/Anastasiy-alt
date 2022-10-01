@@ -2,9 +2,16 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 <h1 align="center">Welcome To My GitHub Profile!</h1>
-Hello, my name is Anastsiy. I am a beginner frontend developer and every day I strive to improve my knowledge in HTML, CSS, JavaScript and React. One day I will become a cool developer!
+Привет, я Настя, начинающий веб-разработчик. Каждый день я совершенствую свои знания в HTML, CSS, JavaScript и React. Однажды я стану крутым разработчиком.
 
-## My technology stack
+## Связаться со мной можно с помощью:
+
+* email: n060600@yandex.ru
+* tel: 8(908)-880-55-15
+* telegram: AnastsiyaVolokitina
+
+
+## Мой стек
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -16,7 +23,7 @@ Hello, my name is Anastsiy. I am a beginner frontend developer and every day I s
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## My github statistics
+## Моя статистика
 
 <p align=center>
   <div align=center>
