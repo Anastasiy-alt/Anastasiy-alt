@@ -3,21 +3,12 @@
 </div>
 <h1 align="center">Welcome To My GitHub Profile!</h1>
 Привет, я Настя - начинающий веб-разработчик. Каждый день я совершенствую свои знания в HTML, CSS, JavaScript и React. 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
-## Связаться со мной можно с помощью:
-
-* email: n060600@yandex.ru
-* tel: 8(908)-880-55-15
-* telegram: AnastsiyaVolokitina
-
+* 🔭 В настоящее время я работаю над <a href="https://github.com/Anastasiy-alt/react-mesto-auth">учебным проектом "Mesto"</a>
+* 🌱 Сейчас учусь программированию на React
+* 👩‍💻 Хочу построить карьеру в IT
+* 📫 Как со мной связаться: n060600@yandex.ru
+<!-- * ⚡ Забавный факт:  -->
 
 ## Мой стек
 
@@ -52,6 +43,11 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Anastasiy-alt&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+## Контакты
+
+* email: n060600@yandex.ru
+* tel: 8(908)-880-55-15
+* telegram: AnastsiyaVolokitina
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
